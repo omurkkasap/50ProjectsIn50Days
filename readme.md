@@ -19,3 +19,8 @@
 ![](Projectsİmages/02-Progress1.png)
 
 ![](Projectsİmages/02-progress2.png)
+
+## 3. Proje: Rotating Animation
+![](Projectsİmages/RotatingNavigation1.png)
+
+![](Projectsİmages/RotatingNavigation2.png)
